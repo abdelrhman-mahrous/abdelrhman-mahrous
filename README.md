@@ -37,7 +37,6 @@
   <img src="https://cdn.simpleicons.org/flask/ffffff" height="30"/>
 </div>
 
-###
 
 <h3 align="left">📫 Connect with me</h3>
 
@@ -51,6 +50,6 @@
   </a>
 </div>
 <img src="https://raw.githubusercontent.com/abdelrhman-mahrous/abdelrhman-mahrous/output/snake-dark.svg" />
-###
+
 
 <br clear="both">
