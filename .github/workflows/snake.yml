@@ -8,6 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # ضيف السطرين دول هنا عشان تديله صلاحية الكتابة 👇
+    permissions:
+      contents: write
 
     steps:
       - name: Generate snake
